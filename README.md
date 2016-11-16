@@ -13,9 +13,12 @@ Basic heart rate data from Bluetooth Low Energy (BLE) peripherals to phone using
 
     $ cordova prepare
 
-will install the [Cordova BLE plugin](https://github.com/don/cordova-plugin-ble-central/tree/master/examples)
+will install the [Cordova BLE plugin](https://github.com/don/cordova-plugin-ble-central/)
 
 ### Ionic 2
 
-    $ ionic platform add android [or iOS, untested]
+    $ ionic platform add android 
+
+here you may potentially be able to replace `android` with `iOS`, though it is untested.
+
 
