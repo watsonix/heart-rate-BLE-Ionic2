@@ -7,7 +7,22 @@ Basic heart rate data from Bluetooth Low Energy (BLE) peripherals to phone using
 * iOS
 * Android (4.3 or greater)
 
+
+# Pre-requisites
+
+* node.js
+  * On Mac OS, recommend using [Homebrew](http://brew.sh/)
+
+  $ brew update
+  $ brew install node
+
+* Ionic 2
+
+  Use Node Package Manager to install Ionic 2: `npm install -g ionic cordova`
+
 # Installing
+
+Run _all_ of the below commands
 
 ### Cordova
 
