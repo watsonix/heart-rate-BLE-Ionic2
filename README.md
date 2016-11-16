@@ -13,8 +13,10 @@ Basic heart rate data from Bluetooth Low Energy (BLE) peripherals to phone using
 * node.js
   * On Mac OS, recommend using [Homebrew](http://brew.sh/)
 
-  $ brew update
-  $ brew install node
+    $ brew update
+    $ brew install node
+
+  * Otherwise/alternatively download from the [node website](https://nodejs.org/)
 
 * Ionic 2
 
