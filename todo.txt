@@ -1,0 +1,10 @@
+TODO 11/15
+
+make HR example compatible with Ionic 2? (or ... just code directly on top of it for cordova!)
+
+http://stackoverflow.com/questions/36033824/ble-trouble-with-ionic-2
+https://forum.ionicframework.com/t/ble-not-found-using-ble-plugin-with-ionic-2/46522/3
+http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/
+https://ionicallyspeaking.com/2016/05/06/connecting-to-a-bluetooth-smart-sensor-with-ionic-2/
+https://github.com/don/cordova-plugin-ble-central/issues/116
+https://github.com/don/ionic-ble/
